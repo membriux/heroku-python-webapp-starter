@@ -18,7 +18,7 @@ def index():
     # set session
     session['user'] = app.secret_key
 
-    return 'Welcome!'
+    return 'Successfully deployed to Heroku!'
 
 
 if __name__ == '__main__':
