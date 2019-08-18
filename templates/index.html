@@ -1,0 +1,35 @@
+
+
+<!-- Use base.html as template -->
+{% extends 'base.html' %}
+
+{% block title %} [TITLE] {% endblock %}
+
+{% block content %}
+
+<!-- HTML code here -->
+
+
+
+
+
+
+
+
+
+<!-- Routing to another page dynamically -->
+<a href="{{url_for('business', business_id='{{business.id}}')}}"> </a>
+
+<!-- Dynamic content -->
+{{ user_name }}
+
+<!-- For loop example: -->
+{% for item in item_list %}
+{% endfor %}
+
+<!-- Example for if statement -->
+{% if button_tapped %}
+{% endif %}
+
+
+{% endblock %}
