@@ -14,6 +14,7 @@ Feel free to **download/fork** it so you can use it as a reference!
 - `cd my-project`
 - `python3 -m venv venv`
 
+![Install venv](gifs/walkthrough1.gif)
 
 2. Activate virtual environment for your project:
 - `source venv/bin/activate`
