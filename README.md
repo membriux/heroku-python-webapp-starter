@@ -23,25 +23,25 @@ Feel free to **download/fork** it so you can use it as a reference!
 3. Install basic requirements for web app in Flask:
  - `pip install flask gunicorn`
  Note: make sure to have pip installed
+
 ![Install requirements](gifs/walkthrough3.gif)
 
 
 4. Verify requirements were installed with the desired versions:
 - `pip freeze`
-![Install venv](gifs/walkthrough4.gif)
-
 
 5. Create requirements.txt so Heroku understands what your web app needs
 - `pip freeze > requirements.txt`
-![Install venv](gifs/walkthrough5.gif)
 
+![Create requirements.txt](gifs/walkthrough4.gif)
 
 6. Create Procfile (for Heroku):
 - `vi Procfile`
 
 On your Procfile file, type this:
 - `web: gunicorn app:app`
-![Install venv](gifs/walkthrough5.gif)
+
+![Create Procfile](gifs/walkthrough5.gif)
 
 Go to Heroku.com -> sign in -> create app, and deploy using Github
-![Install venv](gifs/walkthrough6.gif)
+![Deploy to Heroku](gifs/walkthrough6.gif)
