@@ -3,14 +3,14 @@
 # Python-Flask Web App Starter
 This repo contains the necessary files to work on your next Python-Flask web application.
 
-Feel free to **download/fork** it so you can use it as a reference!
+Feel free to **[download/fork](/heroku-webapp-starter.zip)** it so you can use it as a reference!
 
 
 ## How to Deploy Flask-Python Web App on Heroku
 
 ### On your Terminal:
 
-#### 0. Download this repo as a zip with all the project starter files
+#### 0. [Download](/heroku-webapp-starter.zip) this repo as a zip with all the project starter files
 
 #### 1. Install virtual environment (in project directory):
 - `cd my-project`
