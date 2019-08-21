@@ -10,6 +10,8 @@ Feel free to **download/fork** it so you can use it as a reference!
 
 ### On your Terminal:
 
+#### 0. Download this repo as a zip with all the project starter files
+
 #### 1. Install virtual environment (in project directory):
 - `cd my-project`
 - `python3 -m venv venv`
