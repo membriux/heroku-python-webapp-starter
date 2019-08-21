@@ -10,7 +10,7 @@ Feel free to **[download/fork](/heroku-webapp-starter.zip)** it so you can use i
 
 ### On your Terminal:
 
-#### 0. [Download](/heroku-webapp-starter.zip) this repo as a zip with all the project starter files
+#### 0. [Download](https://github.com/membriux/heroku-python-webapp-starter/blob/master/heroku-webapp-starter.zip?raw=true) this repo as a zip with all the project starter files
 
 #### 1. Install virtual environment (in project directory):
 - `cd my-project`
