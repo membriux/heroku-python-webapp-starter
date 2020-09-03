@@ -1,7 +1,7 @@
 
 
 # Python-Flask Web App Starter
-This repo contains the necessary files to work on your next Python-Flask web application.
+This repo contains the necessary files to work on your next Python-Flask web application and **deploy** it to heroku
 
 Feel free to **[download/fork](/heroku-webapp-starter.zip)** it so you can use it as a reference!
 
