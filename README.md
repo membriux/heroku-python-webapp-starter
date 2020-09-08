@@ -47,12 +47,23 @@ Feel free to **[download/fork](/heroku-webapp-starter.zip)** it so you can use i
 On your Procfile file, type this:
 - `web: gunicorn app:app`
 
-
 ![Create Procfile](gifs/walkthrough5.gif)
 
 
-
-#### 7. Go to [Heroku Dashboard](http://heroku.com) -> sign in -> create app, and deploy using Github
+#### 7. Deploy: Go to [Heroku Dashboard](http://heroku.com) -> sign in -> create app, and deploy using Github
 
 
 ![Deploy to Heroku](gifs/walkthrough6.gif)
+
+
+#### Running Locally
+
+`export FLASK_APP=app.py
+flask run
+`
+
+Development mode
+`export FLASK_APP=app.py
+export FLASK_ENV=development
+flask run
+`
