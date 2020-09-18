@@ -9,27 +9,8 @@
 
 <!-- HTML code here -->
 
-
-
-
-
-
-
-
-
-<!-- Routing to another page dynamically -->
-<a href="{{url_for('business', business_id='{{business.id}}')}}"> </a>
-
-<!-- Dynamic content -->
-{{ user_name }}
-
-<!-- For loop example: -->
-{% for item in item_list %}
-{% endfor %}
-
-<!-- Example for if statement -->
-{% if button_tapped %}
-{% endif %}
+<!--  This inserts the variable 'name' given by the flask app --> 
+Hello {{ name }}!
 
 
 {% endblock %}
