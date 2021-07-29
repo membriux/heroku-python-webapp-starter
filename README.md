@@ -1,5 +1,5 @@
 ##### `author` [@membriux](https://github.com/membriux)
-#### Tags: `flask` `deploy` `heroku` `python`
+##### Tags: `flask` `deploy` `heroku` `python`
 
 # Python-Flask Web App Starter
 This repo contains the necessary files to work on your next Python-Flask web application and **deploy** it to heroku
