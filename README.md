@@ -1,5 +1,5 @@
 ⚠️NOTE: HEROKU NO LONGER WILL HOST FREE APPS. YOU WILL HAVE TO PAY NOW. 
-However, this tutorial is still usable if you do plan host on heroku
+However, this tutorial is still usable if you do plan host on heroku.
 If you want a free hosting site, I would checkout http://membriux.pythonanywhere.com/
 
 ##### `author` [@membriux](https://github.com/membriux)
