@@ -1,3 +1,7 @@
+⚠️NOTE: HEROKU NO LONGER WILL HOST FREE APPS. YOU WILL HAVE TO PAY NOW. 
+However, this tutorial is still usable if you do plan host on heroku
+
+
 ##### `author` [@membriux](https://github.com/membriux)
 ##### Tags: `flask` `deploy` `heroku` `python`
 
